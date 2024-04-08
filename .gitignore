@@ -24,3 +24,6 @@ elixir_http-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+.*/_build
+.*/deps
